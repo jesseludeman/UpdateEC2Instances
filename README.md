@@ -1,2 +1,4 @@
 # UpdateEC2Instances
-Testing various functions to modify the state of AWS EC2 instances
+I wrote this to help my understanding in automating basic EC2 tasks in AWS.
+
+TODO: Optimize get_instances() function, and integrate reboot feature into stop_instances() function.
